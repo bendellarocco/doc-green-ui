@@ -2,6 +2,6 @@
 
 A dark UI theme for Atom, heavy on the green, based on the Atom Dark UI theme.
 
-### Screenshot (will come)
+### Screenshot
 
 ![](https://github.com/pkrll/doc-green-ui/blob/master/helium.png?raw=true)
