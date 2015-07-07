@@ -1,6 +1,10 @@
 # Doc Green UI theme
 
-A dark UI theme for Atom, heavy on the green, based on the Atom Dark UI theme.
+A kind of minimalistic dark and greenish UI theme based on Atom Dark. Created by pkrll. Use it with the [Doc Green Syntax Theme](https://atom.io/themes/doc-green-syntax).
+
+## Install
+
+Open Atom Preferences, select Install > Themes and search for "doc-green", then click install. Activate it then by selecting it in the Themes section.
 
 ### Screenshot
 
